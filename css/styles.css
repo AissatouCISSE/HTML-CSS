@@ -1,0 +1,176 @@
+/*p.welcome{
+	color:#5503E2;
+	background:#000;
+}
+p.vivacss{
+	color:#000;
+	font-weight: bold;
+}
+body{
+	background-color:#1F2A36;
+}
+h1.headline{
+	font-size: 50px;
+	padding-left:15px;
+}
+a{
+	color:#000;
+	opacity: 0.7;
+}*/
+body{
+	font-family: 'Source code pro',Calibri,serif;
+	background-color:#1F2A36;
+}
+nav {
+	display:flex;
+	justify-content: space-between;
+	height: 90px;
+	color:#FFFFFF;
+	
+
+}
+/*
+nav li {
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 100px;
+	height: 40px;*/
+	/*border-right: 1px solid #FFFFFF;*/
+	/*text-align:center;
+	line-height: 40px;
+	color:#FFFFFF;*/
+	/*background-color: #1F2A36;*/
+	/*font-size: 12px;
+
+}
+
+ /*nav li  {
+ 	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 100px;
+	height: 40px;
+	border-right: 1px solid #CCCCCC;
+	text-align:center;
+	line-height: 0px;
+	color:#FFFFFF;
+	background-color: #1F2A36;
+ 	text-decoration: none;
+ 	
+ 	padding-right: 0px;
+ 	font-size: 10px;
+}*/
+
+/*
+body {
+	font-family: 'Source code pro',Calibri,serif;
+	margin: 0px;
+	padding: 0px;
+	background-color: #424558;
+}
+nav{
+	width: 100%;
+	background-color: #424558;
+	
+}
+nav ul {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+nav li{
+	list-style-type: none;
+	float: left;
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+	margin-left: 20px;
+	
+}
+nav hr{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 30px 70px;
+  
+}
+.flex-container {
+	text-indent: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 30px 70px;
+
+}
+
+hr{
+	margin-left: 70px;
+	margin-right: 70px;
+	color: gray;
+}
+
+p{
+	text-align: center;
+	color:#FFFFFF;
+	margin-top: 150px;
+	font-size: 50px;
+}
+
+
+
+.aicha {
+	text-align: center;
+	color:#FFFFFF;
+	margin-left: 160px;
+	padding: 0px;
+	margin-right: 10px;
+	display: inline-block;
+
+	
+}
+i{
+	color: green;
+}
+/*li{
+	text-align: center;
+	text-indent: 50px;
+  display: inline-block; 
+  padding: 30px 70px;
+  font-size: 20px;
+  padding: 0px;
+  margin-right: 80px;
+  border-left:1px solid gray;
+  
+   
+  
+}
+*/
+
+
+/*li{
+	text-align: center;
+	list-style-type: none;
+	float: left;
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+	margin-left: 20px;
+	
+}*/
+/*.container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}*/
