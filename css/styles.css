@@ -1,7 +1,11 @@
 body{
 	font-family: 'Source code pro',Calibri,serif;
-	/*background-color:#1F2A36;*/
-	background-color:rgb(78,75,95);
+	/*background-color:#1F2A36;    rgb(78,75,95) , #778899*/
+	background-color: rgb(77,77,90);
+	background-image: url("../img/imagefond.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 625px;
+
 }
 nav {
 	display:flex;
